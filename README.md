@@ -15,7 +15,7 @@ I love building interactive projects, learning new technologies, and contributin
 
 ## 💻 Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Node.js, Express.js  
+**Backend:** Node.js
 **Programming Language:** C, Python, Java
 **Other Tools:** Git, GitHub, VS Code
 
