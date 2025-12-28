@@ -18,6 +18,7 @@ I love building interactive projects, learning new technologies, and contributin
 **Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, Firebase  
+**Programming Language:** C, Python, Java
 **Other Tools:** Git, GitHub, VS Code, Postman  
 
 ---
