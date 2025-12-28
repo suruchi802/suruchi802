@@ -7,8 +7,7 @@ I love building interactive projects, learning new technologies, and contributin
 
 ## 🌱 I’m currently learning
 - Advanced **React.js**
-- **Node.js & Express**
-- **Python AI/ML frameworks**  
+- **Node.js 
 - Data Structures & Algorithms (DSA)
 - OOPJ
 
@@ -17,9 +16,8 @@ I love building interactive projects, learning new technologies, and contributin
 ## 💻 Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB, Firebase  
 **Programming Language:** C, Python, Java
-**Other Tools:** Git, GitHub, VS Code, Postman  
+**Other Tools:** Git, GitHub, VS Code
 
 ---
 
