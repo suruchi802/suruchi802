@@ -23,7 +23,7 @@ I love building interactive projects, learning new technologies, and contributin
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/suruchi-kumari-a23b26399) | [GitHub](https://github.com/suruchi802) 
+[LinkedIn](www.linkedin.com/in/suruchi-kumari-a23b26399) | [GitHub](https://github.com/suruchi802) 
 
 ---
 
